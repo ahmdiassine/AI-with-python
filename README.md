@@ -16,6 +16,9 @@ In this repository, you will find notebooks that offers approaches to understand
 * **Image Classification with Traditional Methods:**                  
 [https://colab.research.google.com/drive/1EpJGQL4FbJNvx-brMCBSQDSA5R4uybjc?usp=sharing](https://colab.research.google.com/drive/1EpJGQL4FbJNvx-brMCBSQDSA5R4uybjc?usp=sharing)
 
+* **Class Imbalance in MNIST dataset:**  
+  [https://colab.research.google.com/drive/133z-Qd3Z2nE0PrM0pK6WWQzxaaEOp8yt?usp=sharing](https://colab.research.google.com/drive/133z-Qd3Z2nE0PrM0pK6WWQzxaaEOp8yt?usp=sharing)
+
 
 
 * **Implementing GBT model using small dataset:**  
